@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://bastards-book-of-photography.github.com/atom.xml" rel="self"/>
+  <link href="http://bastards-book-of-photography.github.com/"/>
+  <updated>2012-06-05T23:34:47-04:00</updated>
+  <id>http://bastards-book-of-photography.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://bastards-book-of-photography.github.com/blog/2012/06/05/hello-world/"/>
+    <updated>2012-06-05T23:34:00-04:00</updated>
+    <id>http://bastards-book-of-photography.github.com/blog/2012/06/05/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
